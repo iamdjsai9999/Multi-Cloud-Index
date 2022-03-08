@@ -1,0 +1,36 @@
+{
+  "name": "Multi Cloud Index",
+  "description": "A Powerful Multi Cloud Index to Bypass all download limits",
+  "repository": "https://github.com/TheCaduceus/Multi-Cloud-Index",
+  "logo": "",
+  "keywords": ["nginx", "fileindex", "mega", "onedrive", "remote-index", "anyremote", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],  
+    
+    "env": {
+     "CONFIG_IN_URL": {
+      "description": "Enter your Rclone config file URL, which you will got from gist.github.com" ,
+      "value": ""
+    },
+     "template": {
+      "description": "INDEX Colour (dark / light)",
+      "value": "dark"
+    },
+     "indexauthentication": {
+      "description": "Index authentication (true / false) | If you want to add authorization before accessing your Index then change value to true, and change below given field.",
+      "value": "false"
+    },
+     "INDEXusername": {
+      "description": "CREATE INDEX USERNAME",
+      "value": "admin"
+    },
+     "INDEXpassword": {
+      "description": "CREATE INDEX PASSWORD",
+      "value": "enter_password_here"
+
+    }
+
+
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
