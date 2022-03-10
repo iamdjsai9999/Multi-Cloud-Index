@@ -97,7 +97,7 @@
 <img src="Img/15.png" alt="15/PC-Preview">
 <!---Streaming Videos--->
 <h2><b>📽️ Streaming Videos</b></h2>
-<p><b>You can use VLC Media App for both Phone,PC,Laptop and Tablet.Lets learn how to do that!</b></p>
+<p><b>You can use VLC Media App for both Phone/PC/Laptop and Tablet.Lets learn how to do that!</b></p>
 <h3><b><i>For Mobile Phone:</i></b></h3>
 <h4><b>1.First Download VLC Media App for <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc" alt="VLC For Android">Android</a> or <a href="https://apps.apple.com/us/app/vlc-for-mobile/id650377962" alt="VLC For iOS">iOS</a>.</b></h4>
 <h4><b>2.Now open it and click "More" option then "New Stream" option as shown in the given image.</b></h4>
