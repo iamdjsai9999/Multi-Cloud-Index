@@ -60,7 +60,7 @@
 <h4><b>3.After logging into Railway, Click on "New Project".</b></h4>
 <img src="Img/8.png" alt="8">
 <h4><b>4.Choose "Deploy from Repo" to deploy your forked repository.</b></h4>
-<img src="Img/8.png" alt="9">
+<img src="Img/9.png" alt="9">
 <h4><b>5.Then select "Multi-Cloud-Index" Repository from the list.</b></h4>
 <img src="Img/10.png" alt="10">
 <h4><b>6.Click "Add Variables" and enter the following Values to configure your Index.</b></h4>
