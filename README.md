@@ -39,12 +39,12 @@
 <h4><b>3.After opening the Deployment page, Enter the following Values</b></h4>
 <!---Heroku Values--->
 <p><b>
-	1.App name: Give a Nice name to your Index.<br>
-	2.CONFIG_IN_URL: Paste the URL which you copied from STEP 5 written in above section.<br>
-    3.indexauthentication: If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
-    4.INDEXpassword: If you set authentication to "true" then change its value! This value will be your Index Password<br>
-    5.INDEXusername: If you set the password then change this value! This value will be your Index Username to login<br>
-    6.template: You can turn Dark mode on and off! Just type "light" to turn it off and "dark" to turn it on.
+	1.App name - Give a Nice name to your Index.<br>
+	2.CONFIG_IN_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
+        3.indexauthentication - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
+        4.INDEXpassword - If you set authentication to "true" then change its value! This value will be your Index Password<br>
+        5.INDEXusername - If you set the password then change this value! This value will be your Index Username to login<br>
+        6.template - You can turn Dark mode on and off! Just type "light" to turn it off and "dark" to turn it on.
 </b></p>
 <img src="Img/4.png" alt="4">
 <h4><b>4.Now click on the Deploy button and wait patiently and once it got successful deployed, click View App button</b></h4>
@@ -67,11 +67,11 @@
 <!---Railway App Values--->
 <!---There is no need for App Name as a Value in Railway App--->
 <p><b>
-	1.CONFIG_IN_URL: Paste the URL which you copied from STEP 5 written in above section.<br>
-    2.indexauthentication: If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
-    3.INDEXpassword: If you set authentication to "true" then change its value! This value will be your Index Password<br>
-    4.INDEXusername: If you set the password then change this value! This value will be your Index Username to login<br>
-    5.template: You can turn Dark mode on and off! Just type "light" to turn it off and "dark" to turn it on.
+	1.CONFIG_IN_URL - Paste the URL which you copied from STEP 5 written in above section.<br>
+        2.indexauthentication - If you want to add password protection to prevent unauthorized access then change the value to "true" and change the below two values otherwise keep it "false" and ignore the following two values<br>
+        3.INDEXpassword - If you set authentication to "true" then change its value! This value will be your Index Password<br>
+        4.INDEXusername - If you set the password then change this value! This value will be your Index Username to login<br>
+        5.template - You can turn Dark mode on and off! Just type "light" to turn it off and "dark" to turn it on.
 </b></p>
 <h4><b>7.Finally! Click on the "Deploy" button and let it get deployed! Index can take maximum 10 Minutes to start working after successfully getting deployed.</b></h4>
 <img src="Img/11.png" alt="11">
