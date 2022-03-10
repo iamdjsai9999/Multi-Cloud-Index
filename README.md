@@ -112,12 +112,10 @@
 <h4><b>3.It will open a Dialog Box as shown in the Image! Enter your Link which you got from "Using Direct Link" Section and click "Play" button.</b></h4>
 <img src="Img/19.png" alt="19/PC-Preview">
 <h4><b>4.Finally wait for maximum 5 Minutes, (Don't touch screen) to let VLC to Establish a connection with your Index. The Video will start playing automatically!</b></h4>
+<!---Index Preview--->
 <h2><b>📃 Index Preview</b></h2>
-<details>
-  <summary>Image Preview</summary><details>
-  <img src="Img/20.png" name="With Dark Mode">
-  <img src="Img/12.png" name="With Light Mode">
-</details>
+<img src="Img/20.png" name="With Dark Mode">
+<img src="Img/21.png" name="With Light Mode">
 <!---Quick Links--->
 <h2><b>🖇️ Quick Links</b></h2>
 <h4><b><a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">VLC For Android</a></b></h4>
