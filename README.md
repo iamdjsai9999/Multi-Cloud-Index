@@ -123,7 +123,7 @@
 <h4><b><a href="https://apps.apple.com/us/app/text-editor/id1483790257" alt="For iOS">Text Editor for iOS</a></b></h4>
 <h4><b>VLC Media Player Download:</b></h4>
 <h4><b><a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">VLC For Android</a></b></h4>
-<h4><b><a href="https://www.videolan.org/vlc/download-macosx.html">VLC For iOS</a></b></h4>
+<h4><b><a href="https://apps.apple.com/us/app/vlc-for-mobile/id650377962">VLC For iOS</a></b></h4>
 <h4><b><a href="https://www.videolan.org/vlc/download-windows.html" alt="For Windows">VLC For Windows</a></b></h4>
 <h4><b><a href="https://www.videolan.org/vlc/download-macosx.html">VLC For MacOS</a></b></h4>
 <h4><b><a href="https://www.videolan.org/vlc/#download">VLC For Linux</a></b></h4>
